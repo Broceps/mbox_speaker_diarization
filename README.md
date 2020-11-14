@@ -1,7 +1,7 @@
 # mbox_speaker_diarization
 
 ### 1. Description
-This project contains scripts for an speaker diarization server intended to run in a Linux environment. 
+This project contains scripts for a speaker diarization server intended to run in a Linux environment. 
 
 The server and clientcommunicate with ZMQ ([pyzmq](https://github.com/zeromq/pyzmq)) protocol. Diarization is made with the 
 [pyannote](https://pyannote.github.io) framework. 
